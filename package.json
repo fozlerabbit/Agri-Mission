@@ -23,7 +23,7 @@
   ],
   "author": "Your Name",
   "license": "MIT",
-  "homepage": "https://ScriptySphere.github.io/Agri-Mission",
+  "homepage": "https://fozlerabbit.github.io/Agri-Mission",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
